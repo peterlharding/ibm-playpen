@@ -1,0 +1,4 @@
+{
+  "clientId": "f6a84e18-279e-48b5-be11-1936686a753f",
+  "discoveryEndpoint": "https://au-syd.appid.cloud.ibm.com/oauth/v4/cf38abbb-44e5-4791-a195-dbcf35bfff08/.well-known/openid-configuration"
+}

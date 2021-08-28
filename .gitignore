@@ -1,0 +1,21 @@
+
+# Sensitive info
+.CREDENTIALS
+ibm_cloud_api_key.json
+
+# IDE Local config
+.vscode
+.idea
+build
+
+# Python Stuff
+__pycache__
+*.pyc
+
+# Archives
+*.gz
+*.tar
+*.tz
+*.zip
+
+
